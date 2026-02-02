@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# Allow direct access to files/folders
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Services dynamic routing
+RewriteRule ^services/([^/]+)/?$ services.php?slug=$1 [L,QSA]
+
+# Services index
+RewriteRule ^services/?$ services/index.php [L,QSA]

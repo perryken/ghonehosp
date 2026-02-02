@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Mary Johnson",
+      "role": "Patient",
+      "testimonial": "GloneHospital provided exceptional care. The staff were kind, professional, and made me feel completely at ease during my treatment."
+    },
+    {
+      "id": 2,
+      "name": "Kwame Mensah",
+      "role": "Patient",
+      "testimonial": "I am very impressed with the facilities and the doctors. They really take the time to explain everything clearly and with patience."
+    },
+    {
+        "id": 2,
+        "name": "Kwame Mensah",
+        "role": "Patient",
+        "testimonial": "I am very impressed with the facilities and the doctors. They really take the time to explain everything clearly and with patience."
+      },
+      {
+        "id": 2,
+        "name": "Kwame Mensah",
+        "role": "Patient",
+        "testimonial": "I am very impressed with the facilities and the doctors. They really take the time to explain everything clearly and with patience."
+      },
+    {
+      "id": 3,
+      "name": "Linda Osei",
+      "role": "Patient",
+      "testimonial": "Highly recommended! The care and attention I received were top-notch. GloneHospital is a trusted healthcare provider."
+    }
+  ]
+  

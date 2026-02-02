@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Cardiology",
+    "slug": "cardiology",
+    "shortDescription": "Comprehensive heart care including diagnosis, treatment, and preventive cardiology.",
+    "description": "Our Cardiology Department provides advanced heart care services including diagnosis, treatment, prevention, and long-term management of cardiovascular conditions.",
+    "image": "assets/images/services/slider5.jpg",
+    "url": "services/cardiology",
+    "layout": "default",
+    "seo": {
+      "title": "Cardiology Services in Ghana | GloneHospital",
+      "description": "Expert cardiology services in Ghana offering heart diagnosis, treatment, and preventive care at GloneHospital.",
+      "keywords": "cardiology services Ghana, heart specialist Ghana, heart hospital in Ghana"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Pediatrics",
+    "slug": "pediatrics",
+    "shortDescription": "Healthcare for infants, children, and adolescents focused on growth and wellness.",
+    "description": "Our Pediatrics Department delivers compassionate and comprehensive healthcare for infants, children, and adolescents, ensuring healthy growth and development.",
+    "image": "assets/images/services/pediatrics.jpg",
+    "url": "services/pediatrics",
+    "layout": "default",
+    "seo": {
+      "title": "Pediatric Care in Ghana | GloneHospital",
+      "description": "Trusted pediatric healthcare services in Ghana providing expert medical care for children of all ages.",
+      "keywords": "pediatric hospital Ghana, child healthcare Ghana, children hospital Ghana"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Orthopedics",
+    "slug": "orthopedics",
+    "shortDescription": "Advanced treatment for bone, joint, and musculoskeletal conditions.",
+    "description": "Our Orthopedics Department specializes in the diagnosis and treatment of bone, joint, and musculoskeletal conditions using modern techniques.",
+    "image": "assets/images/services/orthopedics.jpg",
+    "url": "services/orthopedics",
+    "layout": "default",
+    "seo": {
+      "title": "Orthopedic Services in Ghana | GloneHospital",
+      "description": "Advanced orthopedic care in Ghana for bone, joint, and muscle conditions.",
+      "keywords": "orthopedic hospital Ghana, bone specialist Ghana, joint care Ghana"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Maternity",
+    "slug": "maternity",
+    "shortDescription": "Complete maternal care from prenatal to postnatal services.",
+    "description": "Our Maternity Department provides comprehensive care from prenatal consultations to safe delivery and postnatal support.",
+    "image": "assets/images/services/maternity.jpg",
+    "url": "services/maternity",
+    "layout": "default",
+    "seo": {
+      "title": "Maternity Care in Ghana | GloneHospital",
+      "description": "Professional maternity and pregnancy care services in Ghana ensuring safe motherhood.",
+      "keywords": "maternity hospital Ghana, pregnancy care Ghana, antenatal care Ghana"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Neurology",
+    "slug": "neurology",
+    "shortDescription": "Specialized care for brain, spine, and nerve disorders.",
+    "description": "Our Neurology Department offers expert diagnosis and treatment for disorders of the brain, spine, and nervous system.",
+    "image": "assets/images/services/neurology.jpg",
+    "url": "services/neurology",
+    "layout": "default",
+    "seo": {
+      "title": "Neurology Services in Ghana | GloneHospital",
+      "description": "Specialized neurology care in Ghana for brain and nervous system disorders.",
+      "keywords": "neurology hospital Ghana, brain specialist Ghana, nerve disorder treatment Ghana"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Dermatology",
+    "slug": "dermatology",
+    "shortDescription": "Medical, cosmetic, and surgical skin treatments.",
+    "description": "Our Dermatology Department provides comprehensive medical and cosmetic treatments for skin, hair, and nail conditions.",
+    "image": "assets/images/services/dermatology.jpg",
+    "url": "services/dermatology",
+    "layout": "default",
+    "seo": {
+      "title": "Dermatology Services in Ghana | GloneHospital",
+      "description": "Professional dermatology and skin care services in Ghana for healthy skin and hair.",
+      "keywords": "dermatology clinic Ghana, skin specialist Ghana, cosmetic dermatology Ghana"
+    }
+  }
+]

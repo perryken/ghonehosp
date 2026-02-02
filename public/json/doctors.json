@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. John Doe",
+      "role": "Cardiology Specialist",
+      "image": "./assets/images/profile/doc.jpg",
+      "shortBio": "Experienced cardiologist focused on preventive care and heart wellness.",
+      "fullBio": "Dr. John Doe is a highly experienced cardiology specialist with over 12 years of clinical practice. He focuses on preventive cardiology, early diagnosis, and long-term management of heart conditions. Dr. Doe has treated a wide range of cardiovascular diseases including hypertension, coronary artery disease, and heart failure, and is known for his patient-focused and evidence-based approach to care.",
+      "experience": "12+ years treating complex cardiovascular conditions, including hypertension, coronary artery disease, and heart failure.",
+      "education": "MBBS – University of London, MD (Cardiology) – Harvard Medical School",
+      "schedule": "Mon – Fri: 9:00 AM – 4:00 PM",
+      "social": {
+        "facebook": "#",
+        "x": "#",
+        "linkedin": "#"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Smith",
+      "role": "Neurology Specialist",
+      "image": "./assets/images/profile/doc.jpg",
+      "shortBio": "Dedicated neurologist specializing in brain and nerve disorders.",
+      "fullBio": "Dr. Jane Smith is a board-certified neurology specialist with over 10 years of experience in diagnosing and treating neurological conditions. Her expertise includes epilepsy management, stroke care, and neurodegenerative disorders. She is passionate about patient-centered treatment plans and staying at the forefront of neurological research and innovation.",
+      "experience": "10+ years in clinical neurology treating epilepsy, stroke, and neurodegenerative disorders.",
+      "education": "MBBS – Oxford University, Fellowship in Neurology – Johns Hopkins University",
+      "schedule": "Mon – Thu: 10:00 AM – 3:00 PM",
+      "social": {
+        "facebook": "#",
+        "x": "#",
+        "linkedin": "#"
+      }
+    }, 
+    {
+        "id": 3,
+        "name": "Dr. Jane Smith",
+        "role": "Neurology Specialist",
+        "image": "./assets/images/profile/doc.jpg",
+        "shortBio": "Dedicated neurologist specializing in brain and nerve disorders.",
+        "fullBio": "Dr. Jane Smith is a board-certified neurology specialist with over 10 years of experience in diagnosing and treating neurological conditions. Her expertise includes epilepsy management, stroke care, and neurodegenerative disorders. She is passionate about patient-centered treatment plans and staying at the forefront of neurological research and innovation.",
+        "experience": "10+ years in clinical neurology treating epilepsy, stroke, and neurodegenerative disorders.",
+        "education": "MBBS – Oxford University, Fellowship in Neurology – Johns Hopkins University",
+        "schedule": "Mon – Thu: 10:00 AM – 3:00 PM",
+        "social": {
+          "facebook": "#",
+          "x": "#",
+          "linkedin": "#"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Dr. Jane Smith",
+        "role": "Neurology Specialist",
+        "image": "./assets/images/profile/doc.jpg",
+        "shortBio": "Dedicated neurologist specializing in brain and nerve disorders.",
+        "fullBio": "Dr. Jane Smith is a board-certified neurology specialist with over 10 years of experience in diagnosing and treating neurological conditions. Her expertise includes epilepsy management, stroke care, and neurodegenerative disorders. She is passionate about patient-centered treatment plans and staying at the forefront of neurological research and innovation.",
+        "experience": "10+ years in clinical neurology treating epilepsy, stroke, and neurodegenerative disorders.",
+        "education": "MBBS – Oxford University, Fellowship in Neurology – Johns Hopkins University",
+        "schedule": "Mon – Thu: 10:00 AM – 3:00 PM",
+        "social": {
+          "facebook": "#",
+          "x": "#",
+          "linkedin": "#"
+        }
+      },
+    {
+        "id": 5,
+        "name": "Dr. Jane Smith",
+        "role": "Neurology Specialist",
+        "image": "./assets/images/profile/doc.jpg",
+        "shortBio": "Dedicated neurologist specializing in brain and nerve disorders.",
+        "fullBio": "Dr. Jane Smith is a board-certified neurology specialist with over 10 years of experience in diagnosing and treating neurological conditions. Her expertise includes epilepsy management, stroke care, and neurodegenerative disorders. She is passionate about patient-centered treatment plans and staying at the forefront of neurological research and innovation.",
+        "experience": "10+ years in clinical neurology treating epilepsy, stroke, and neurodegenerative disorders.",
+        "education": "MBBS – Oxford University, Fellowship in Neurology – Johns Hopkins University",
+        "schedule": "Mon – Thu: 10:00 AM – 3:00 PM",
+        "social": {
+          "facebook": "#",
+          "x": "#",
+          "linkedin": "#"
+        }
+      }
+    ]
+  
